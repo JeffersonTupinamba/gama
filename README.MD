@@ -1,1 +1,1 @@
-Estou achando esse curso incrivel!
+Este é o meu primeiro arquivo README criado para o desafio da aula de Git 05/09/2021. Onde a aula é baeada no sistema operacional Windows, e os meus comandos foram executados através do Terminal do sistema operacional MaxOS. 
